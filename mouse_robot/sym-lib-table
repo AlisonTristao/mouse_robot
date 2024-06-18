@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ponteH")(type "KiCad")(uri "${KIPRJMOD}/ponteH.pretty/ROB-14450.kicad_sym")(options "")(descr ""))
+  (lib (name "MPU")(type "KiCad")(uri "${KIPRJMOD}/ponteH.pretty/MPU-9250.kicad_sym")(options "")(descr ""))
+)

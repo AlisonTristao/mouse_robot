@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "ponteH")(type "KiCad")(uri "/home/alison/git/mouse_robot/mouse_robot/ponteH.pretty")(options "")(descr ""))
+  (lib (name "MPU")(type "KiCad")(uri "/home/alison/git/mouse_robot/mouse_robot/MPU-9250.pretty")(options "")(descr ""))
 )
