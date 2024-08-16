@@ -1,13 +1,10 @@
 {
   "board": {
-    "active_layer": 41,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
-    "hidden_nets": [
-      "/SDA{slash}20",
-      "/SCL{slash}21"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -70,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "Arduino_Mega.kicad_prl",
+    "filename": "mouse_robot.kicad_prl",
     "version": 3
   },
   "project": {
